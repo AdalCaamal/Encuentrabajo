@@ -62,17 +62,16 @@ El administrador podrá gestionar usuarios, empresas, vacantes y verificar activ
 
 
 ## **Diagrama de casos de uso**
-![Imagen]( "Diagrama de casos de uso")
+
 
 ## **Diagrama de despliegue**
-![Imagen](./public/images/DiagramaDeDespliegue.png "Diagrama de despliegue")
+
 
 ## **Vistas del proyecto**
-El diseño de las vistas se encuentran [aquí](https://www.figma.com/design/oHhb8kshefPxBi7MTPIRpo/Plataforma-de-cursos?node-id=71%3A1352&t=ApY1BeBAcXTX7Tzi-1).
+
 
 ## **Ejemplos del funcionamiento**
-- [Usuario](https://youtu.be/qr89ZFIuNkU)
-- [Administrador](https://youtu.be/OPodlMqLglc)
+
 
 ## **Conclusiones**
 Este proyecto representa el resultado de un esfuerzo conjunto para desarrollar una plataforma de aprendizaje en línea funcional. Utilizando una arquitectura cliente-servidor y servicios web REST, logramos implementar un sistema que cumple con los requerimientos establecidos.
